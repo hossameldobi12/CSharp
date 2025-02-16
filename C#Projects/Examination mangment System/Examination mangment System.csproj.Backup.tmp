@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>Examination_mangment_System</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net9.0\Examination mangment System.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net9.0\Examination mangment System.GlobalUsings.g.cs" />
+    <Compile Include="obj\Release\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Release\net9.0\Examination mangment System.AssemblyInfo.cs" />
+    <Compile Include="obj\Release\net9.0\Examination mangment System.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net9.0\Examination mangment System.deps.json" />
+    <Content Include="bin\Debug\net9.0\Examination mangment System.runtimeconfig.json" />
+    <Content Include="obj\Debug\net9.0\Examination mangment System.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net9.0\Examination mangment System.sourcelink.json" />
+    <Content Include="obj\Examination mangment System.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net9.0\Examination mangment System.dll" />
+    <None Include="bin\Debug\net9.0\Examination mangment System.exe" />
+    <None Include="bin\Debug\net9.0\Examination mangment System.pdb" />
+    <None Include="Examination mangment System.csproj" />
+    <None Include="obj\Debug\net9.0\apphost.exe" />
+    <None Include="obj\Debug\net9.0\Examination mangment System.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net9.0\Examination mangment System.assets.cache" />
+    <None Include="obj\Debug\net9.0\Examination mangment System.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net9.0\Examination mangment System.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net9.0\Examination mangment System.dll" />
+    <None Include="obj\Debug\net9.0\Examination mangment System.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net9.0\Examination mangment System.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net9.0\Examination mangment System.pdb" />
+    <None Include="obj\Debug\net9.0\refint\Examination mangment System.dll" />
+    <None Include="obj\Debug\net9.0\ref\Examination mangment System.dll" />
+    <None Include="obj\Examination mangment System.csproj.nuget.g.props" />
+    <None Include="obj\Examination mangment System.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\Release\net9.0\Examination mangment System.AssemblyInfoInputs.cache" />
+    <None Include="obj\Release\net9.0\Examination mangment System.assets.cache" />
+    <None Include="obj\Release\net9.0\Examination mangment System.GeneratedMSBuildEditorConfig.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Release\net9.0\" />
+    <Folder Include="obj\Release\net9.0\refint\" />
+    <Folder Include="obj\Release\net9.0\ref\" />
+  </ItemGroup>
+
+</Project>
