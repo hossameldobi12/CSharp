@@ -1,0 +1,14 @@
+D:\Backend\C#\csharpfundmental\RandomValue\bin\Debug\net9.0\RandomValue.exe
+D:\Backend\C#\csharpfundmental\RandomValue\bin\Debug\net9.0\RandomValue.deps.json
+D:\Backend\C#\csharpfundmental\RandomValue\bin\Debug\net9.0\RandomValue.runtimeconfig.json
+D:\Backend\C#\csharpfundmental\RandomValue\bin\Debug\net9.0\RandomValue.dll
+D:\Backend\C#\csharpfundmental\RandomValue\bin\Debug\net9.0\RandomValue.pdb
+D:\Backend\C#\csharpfundmental\RandomValue\obj\Debug\net9.0\RandomValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\C#\csharpfundmental\RandomValue\obj\Debug\net9.0\RandomValue.AssemblyInfoInputs.cache
+D:\Backend\C#\csharpfundmental\RandomValue\obj\Debug\net9.0\RandomValue.AssemblyInfo.cs
+D:\Backend\C#\csharpfundmental\RandomValue\obj\Debug\net9.0\RandomValue.csproj.CoreCompileInputs.cache
+D:\Backend\C#\csharpfundmental\RandomValue\obj\Debug\net9.0\RandomValue.dll
+D:\Backend\C#\csharpfundmental\RandomValue\obj\Debug\net9.0\refint\RandomValue.dll
+D:\Backend\C#\csharpfundmental\RandomValue\obj\Debug\net9.0\RandomValue.pdb
+D:\Backend\C#\csharpfundmental\RandomValue\obj\Debug\net9.0\RandomValue.genruntimeconfig.cache
+D:\Backend\C#\csharpfundmental\RandomValue\obj\Debug\net9.0\ref\RandomValue.dll

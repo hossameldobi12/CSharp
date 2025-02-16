@@ -1,0 +1,14 @@
+D:\Backend\C#\csharpfundmental\Event\bin\Debug\net9.0\Event.exe
+D:\Backend\C#\csharpfundmental\Event\bin\Debug\net9.0\Event.deps.json
+D:\Backend\C#\csharpfundmental\Event\bin\Debug\net9.0\Event.runtimeconfig.json
+D:\Backend\C#\csharpfundmental\Event\bin\Debug\net9.0\Event.dll
+D:\Backend\C#\csharpfundmental\Event\bin\Debug\net9.0\Event.pdb
+D:\Backend\C#\csharpfundmental\Event\obj\Debug\net9.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\C#\csharpfundmental\Event\obj\Debug\net9.0\Event.AssemblyInfoInputs.cache
+D:\Backend\C#\csharpfundmental\Event\obj\Debug\net9.0\Event.AssemblyInfo.cs
+D:\Backend\C#\csharpfundmental\Event\obj\Debug\net9.0\Event.csproj.CoreCompileInputs.cache
+D:\Backend\C#\csharpfundmental\Event\obj\Debug\net9.0\Event.dll
+D:\Backend\C#\csharpfundmental\Event\obj\Debug\net9.0\refint\Event.dll
+D:\Backend\C#\csharpfundmental\Event\obj\Debug\net9.0\Event.pdb
+D:\Backend\C#\csharpfundmental\Event\obj\Debug\net9.0\Event.genruntimeconfig.cache
+D:\Backend\C#\csharpfundmental\Event\obj\Debug\net9.0\ref\Event.dll

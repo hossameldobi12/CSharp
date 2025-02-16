@@ -1,0 +1,14 @@
+D:\Backend\C#\csharpfundmental\C#Advanced01\bin\Debug\net9.0\C#Advanced01.exe
+D:\Backend\C#\csharpfundmental\C#Advanced01\bin\Debug\net9.0\C#Advanced01.deps.json
+D:\Backend\C#\csharpfundmental\C#Advanced01\bin\Debug\net9.0\C#Advanced01.runtimeconfig.json
+D:\Backend\C#\csharpfundmental\C#Advanced01\bin\Debug\net9.0\C#Advanced01.dll
+D:\Backend\C#\csharpfundmental\C#Advanced01\bin\Debug\net9.0\C#Advanced01.pdb
+D:\Backend\C#\csharpfundmental\C#Advanced01\obj\Debug\net9.0\C#Advanced01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\C#\csharpfundmental\C#Advanced01\obj\Debug\net9.0\C#Advanced01.AssemblyInfoInputs.cache
+D:\Backend\C#\csharpfundmental\C#Advanced01\obj\Debug\net9.0\C#Advanced01.AssemblyInfo.cs
+D:\Backend\C#\csharpfundmental\C#Advanced01\obj\Debug\net9.0\C#Advanced01.csproj.CoreCompileInputs.cache
+D:\Backend\C#\csharpfundmental\C#Advanced01\obj\Debug\net9.0\C#Advanced01.dll
+D:\Backend\C#\csharpfundmental\C#Advanced01\obj\Debug\net9.0\refint\C#Advanced01.dll
+D:\Backend\C#\csharpfundmental\C#Advanced01\obj\Debug\net9.0\C#Advanced01.pdb
+D:\Backend\C#\csharpfundmental\C#Advanced01\obj\Debug\net9.0\C#Advanced01.genruntimeconfig.cache
+D:\Backend\C#\csharpfundmental\C#Advanced01\obj\Debug\net9.0\ref\C#Advanced01.dll

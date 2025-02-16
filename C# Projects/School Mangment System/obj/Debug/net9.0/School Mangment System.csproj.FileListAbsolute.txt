@@ -1,0 +1,14 @@
+D:\Backend\C#\csharpfundmental\School Mangment System\bin\Debug\net9.0\School Mangment System.exe
+D:\Backend\C#\csharpfundmental\School Mangment System\bin\Debug\net9.0\School Mangment System.deps.json
+D:\Backend\C#\csharpfundmental\School Mangment System\bin\Debug\net9.0\School Mangment System.runtimeconfig.json
+D:\Backend\C#\csharpfundmental\School Mangment System\bin\Debug\net9.0\School Mangment System.dll
+D:\Backend\C#\csharpfundmental\School Mangment System\bin\Debug\net9.0\School Mangment System.pdb
+D:\Backend\C#\csharpfundmental\School Mangment System\obj\Debug\net9.0\School Mangment System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\C#\csharpfundmental\School Mangment System\obj\Debug\net9.0\School Mangment System.AssemblyInfoInputs.cache
+D:\Backend\C#\csharpfundmental\School Mangment System\obj\Debug\net9.0\School Mangment System.AssemblyInfo.cs
+D:\Backend\C#\csharpfundmental\School Mangment System\obj\Debug\net9.0\School Mangment System.csproj.CoreCompileInputs.cache
+D:\Backend\C#\csharpfundmental\School Mangment System\obj\Debug\net9.0\School Mangment System.dll
+D:\Backend\C#\csharpfundmental\School Mangment System\obj\Debug\net9.0\refint\School Mangment System.dll
+D:\Backend\C#\csharpfundmental\School Mangment System\obj\Debug\net9.0\School Mangment System.pdb
+D:\Backend\C#\csharpfundmental\School Mangment System\obj\Debug\net9.0\School Mangment System.genruntimeconfig.cache
+D:\Backend\C#\csharpfundmental\School Mangment System\obj\Debug\net9.0\ref\School Mangment System.dll

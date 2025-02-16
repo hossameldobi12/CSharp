@@ -1,0 +1,28 @@
+D:\Backend\C#\csharpfundmental\Examination mangment System\bin\Debug\net9.0\Examination mangment System.exe
+D:\Backend\C#\csharpfundmental\Examination mangment System\bin\Debug\net9.0\Examination mangment System.deps.json
+D:\Backend\C#\csharpfundmental\Examination mangment System\bin\Debug\net9.0\Examination mangment System.runtimeconfig.json
+D:\Backend\C#\csharpfundmental\Examination mangment System\bin\Debug\net9.0\Examination mangment System.dll
+D:\Backend\C#\csharpfundmental\Examination mangment System\bin\Debug\net9.0\Examination mangment System.pdb
+D:\Backend\C#\csharpfundmental\Examination mangment System\obj\Debug\net9.0\Examination mangment System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\C#\csharpfundmental\Examination mangment System\obj\Debug\net9.0\Examination mangment System.AssemblyInfoInputs.cache
+D:\Backend\C#\csharpfundmental\Examination mangment System\obj\Debug\net9.0\Examination mangment System.AssemblyInfo.cs
+D:\Backend\C#\csharpfundmental\Examination mangment System\obj\Debug\net9.0\Examination mangment System.csproj.CoreCompileInputs.cache
+D:\Backend\C#\csharpfundmental\Examination mangment System\obj\Debug\net9.0\Examination mangment System.dll
+D:\Backend\C#\csharpfundmental\Examination mangment System\obj\Debug\net9.0\refint\Examination mangment System.dll
+D:\Backend\C#\csharpfundmental\Examination mangment System\obj\Debug\net9.0\Examination mangment System.pdb
+D:\Backend\C#\csharpfundmental\Examination mangment System\obj\Debug\net9.0\Examination mangment System.genruntimeconfig.cache
+D:\Backend\C#\csharpfundmental\Examination mangment System\obj\Debug\net9.0\ref\Examination mangment System.dll
+D:\Backend\C#\C# Projects\Examination mangment System\bin\Debug\net9.0\Examination mangment System.exe
+D:\Backend\C#\C# Projects\Examination mangment System\bin\Debug\net9.0\Examination mangment System.deps.json
+D:\Backend\C#\C# Projects\Examination mangment System\bin\Debug\net9.0\Examination mangment System.runtimeconfig.json
+D:\Backend\C#\C# Projects\Examination mangment System\bin\Debug\net9.0\Examination mangment System.dll
+D:\Backend\C#\C# Projects\Examination mangment System\bin\Debug\net9.0\Examination mangment System.pdb
+D:\Backend\C#\C# Projects\Examination mangment System\obj\Debug\net9.0\Examination mangment System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\C#\C# Projects\Examination mangment System\obj\Debug\net9.0\Examination mangment System.AssemblyInfoInputs.cache
+D:\Backend\C#\C# Projects\Examination mangment System\obj\Debug\net9.0\Examination mangment System.AssemblyInfo.cs
+D:\Backend\C#\C# Projects\Examination mangment System\obj\Debug\net9.0\Examination mangment System.csproj.CoreCompileInputs.cache
+D:\Backend\C#\C# Projects\Examination mangment System\obj\Debug\net9.0\Examination mangment System.dll
+D:\Backend\C#\C# Projects\Examination mangment System\obj\Debug\net9.0\refint\Examination mangment System.dll
+D:\Backend\C#\C# Projects\Examination mangment System\obj\Debug\net9.0\Examination mangment System.pdb
+D:\Backend\C#\C# Projects\Examination mangment System\obj\Debug\net9.0\Examination mangment System.genruntimeconfig.cache
+D:\Backend\C#\C# Projects\Examination mangment System\obj\Debug\net9.0\ref\Examination mangment System.dll

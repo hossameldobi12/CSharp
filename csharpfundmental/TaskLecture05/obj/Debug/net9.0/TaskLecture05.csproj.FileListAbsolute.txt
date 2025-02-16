@@ -1,0 +1,14 @@
+D:\Backend\C#\csharpfundmental\TaskLecture05\obj\Debug\net9.0\TaskLecture05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\C#\csharpfundmental\TaskLecture05\obj\Debug\net9.0\TaskLecture05.AssemblyInfoInputs.cache
+D:\Backend\C#\csharpfundmental\TaskLecture05\obj\Debug\net9.0\TaskLecture05.AssemblyInfo.cs
+D:\Backend\C#\csharpfundmental\TaskLecture05\obj\Debug\net9.0\TaskLecture05.csproj.CoreCompileInputs.cache
+D:\Backend\C#\csharpfundmental\TaskLecture05\bin\Debug\net9.0\TaskLecture05.exe
+D:\Backend\C#\csharpfundmental\TaskLecture05\bin\Debug\net9.0\TaskLecture05.deps.json
+D:\Backend\C#\csharpfundmental\TaskLecture05\bin\Debug\net9.0\TaskLecture05.runtimeconfig.json
+D:\Backend\C#\csharpfundmental\TaskLecture05\bin\Debug\net9.0\TaskLecture05.dll
+D:\Backend\C#\csharpfundmental\TaskLecture05\bin\Debug\net9.0\TaskLecture05.pdb
+D:\Backend\C#\csharpfundmental\TaskLecture05\obj\Debug\net9.0\TaskLecture05.dll
+D:\Backend\C#\csharpfundmental\TaskLecture05\obj\Debug\net9.0\refint\TaskLecture05.dll
+D:\Backend\C#\csharpfundmental\TaskLecture05\obj\Debug\net9.0\TaskLecture05.pdb
+D:\Backend\C#\csharpfundmental\TaskLecture05\obj\Debug\net9.0\TaskLecture05.genruntimeconfig.cache
+D:\Backend\C#\csharpfundmental\TaskLecture05\obj\Debug\net9.0\ref\TaskLecture05.dll

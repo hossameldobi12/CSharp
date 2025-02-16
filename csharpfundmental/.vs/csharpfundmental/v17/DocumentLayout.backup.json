@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Backend\\C#\\csharpfundmental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|d:\\backend\\c#\\csharpfundmental\\examination mangment system\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|solutionrelative:examination mangment system\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|d:\\backend\\c#\\csharpfundmental\\examination mangment system\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|solutionrelative:examination mangment system\\questionlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|d:\\backend\\c#\\csharpfundmental\\examination mangment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|solutionrelative:examination mangment system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|d:\\backend\\c#\\csharpfundmental\\examination mangment system\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|solutionrelative:examination mangment system\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|d:\\backend\\c#\\csharpfundmental\\examination mangment system\\midtermexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|solutionrelative:examination mangment system\\midtermexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|d:\\backend\\c#\\csharpfundmental\\examination mangment system\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|solutionrelative:examination mangment system\\chooseonequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|d:\\backend\\c#\\csharpfundmental\\examination mangment system\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|solutionrelative:examination mangment system\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|d:\\backend\\c#\\csharpfundmental\\examination mangment system\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|solutionrelative:examination mangment system\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|d:\\backend\\c#\\csharpfundmental\\examination mangment system\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6140551D-12CC-4291-81EC-47265403F066}|Examination mangment System\\Examination mangment System.csproj|solutionrelative:examination mangment system\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionList.cs",
+              "DocumentMoniker": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\QuestionList.cs",
+              "RelativeDocumentMoniker": "Examination mangment System\\QuestionList.cs",
+              "ToolTip": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\QuestionList.cs*",
+              "RelativeToolTip": "Examination mangment System\\QuestionList.cs*",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:02:54.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChooseOneQuestion.cs",
+              "DocumentMoniker": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\ChooseOneQuestion.cs",
+              "RelativeDocumentMoniker": "Examination mangment System\\ChooseOneQuestion.cs",
+              "ToolTip": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\ChooseOneQuestion.cs",
+              "RelativeToolTip": "Examination mangment System\\ChooseOneQuestion.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:16:53.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrueOrFalseQuestion.cs",
+              "DocumentMoniker": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\TrueOrFalseQuestion.cs",
+              "RelativeDocumentMoniker": "Examination mangment System\\TrueOrFalseQuestion.cs",
+              "ToolTip": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\TrueOrFalseQuestion.cs",
+              "RelativeToolTip": "Examination mangment System\\TrueOrFalseQuestion.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:16:52.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\Program.cs",
+              "RelativeDocumentMoniker": "Examination mangment System\\Program.cs",
+              "ToolTip": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\Program.cs",
+              "RelativeToolTip": "Examination mangment System\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAGMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:45:09.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\Exam.cs",
+              "RelativeDocumentMoniker": "Examination mangment System\\Exam.cs",
+              "ToolTip": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\Exam.cs*",
+              "RelativeToolTip": "Examination mangment System\\Exam.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:56:44.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\Helper.cs",
+              "RelativeDocumentMoniker": "Examination mangment System\\Helper.cs",
+              "ToolTip": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\Helper.cs",
+              "RelativeToolTip": "Examination mangment System\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:04:12.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\Questions.cs",
+              "RelativeDocumentMoniker": "Examination mangment System\\Questions.cs",
+              "ToolTip": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\Questions.cs",
+              "RelativeToolTip": "Examination mangment System\\Questions.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwB8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:14:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MidTermExam.cs",
+              "DocumentMoniker": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\MidTermExam.cs",
+              "RelativeDocumentMoniker": "Examination mangment System\\MidTermExam.cs",
+              "ToolTip": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\MidTermExam.cs",
+              "RelativeToolTip": "Examination mangment System\\MidTermExam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:56:45.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\FinalExam.cs",
+              "RelativeDocumentMoniker": "Examination mangment System\\FinalExam.cs",
+              "ToolTip": "D:\\Backend\\C#\\csharpfundmental\\Examination mangment System\\FinalExam.cs",
+              "RelativeToolTip": "Examination mangment System\\FinalExam.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:56:47.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

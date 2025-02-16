@@ -1,0 +1,14 @@
+D:\Backend\C#\csharpfundmental\delegate\bin\Debug\net9.0\delegate.exe
+D:\Backend\C#\csharpfundmental\delegate\bin\Debug\net9.0\delegate.deps.json
+D:\Backend\C#\csharpfundmental\delegate\bin\Debug\net9.0\delegate.runtimeconfig.json
+D:\Backend\C#\csharpfundmental\delegate\bin\Debug\net9.0\delegate.dll
+D:\Backend\C#\csharpfundmental\delegate\bin\Debug\net9.0\delegate.pdb
+D:\Backend\C#\csharpfundmental\delegate\obj\Debug\net9.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\C#\csharpfundmental\delegate\obj\Debug\net9.0\delegate.AssemblyInfoInputs.cache
+D:\Backend\C#\csharpfundmental\delegate\obj\Debug\net9.0\delegate.AssemblyInfo.cs
+D:\Backend\C#\csharpfundmental\delegate\obj\Debug\net9.0\delegate.csproj.CoreCompileInputs.cache
+D:\Backend\C#\csharpfundmental\delegate\obj\Debug\net9.0\delegate.dll
+D:\Backend\C#\csharpfundmental\delegate\obj\Debug\net9.0\refint\delegate.dll
+D:\Backend\C#\csharpfundmental\delegate\obj\Debug\net9.0\delegate.pdb
+D:\Backend\C#\csharpfundmental\delegate\obj\Debug\net9.0\delegate.genruntimeconfig.cache
+D:\Backend\C#\csharpfundmental\delegate\obj\Debug\net9.0\ref\delegate.dll
